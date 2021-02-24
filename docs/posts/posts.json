@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Website",
+    "description": "Welcome to my new website!",
+    "author": [
+      {
+        "name": "Meg Siritzky",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-24",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-24T13:31:12-05:00",
+    "input_file": {}
+  }
+]
